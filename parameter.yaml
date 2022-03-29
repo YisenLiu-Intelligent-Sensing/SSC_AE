@@ -1,0 +1,9 @@
+data_directory : ./data
+other_object_data_directory: ./data/other_objects
+model_directory: ./model
+result_directory: ./result
+pic_directory: ./result/pic
+result_file: result.csv
+
+fit:
+  learning_rate: 0.0005

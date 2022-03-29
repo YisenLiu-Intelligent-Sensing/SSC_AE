@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/disk7t/lys/lys/object_scale/strawberry/anomaly detection/self_supervised_AE/model/model_supervised_AE_strawberry_9itr.model"
+all_model_checkpoint_paths: "/home/disk7t/lys/lys/object_scale/strawberry/anomaly detection/self_supervised_AE/model/model_supervised_AE_strawberry_9itr.model"
